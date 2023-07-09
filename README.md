@@ -15,7 +15,7 @@ The project follows the MVC architecture, which separates the application into t
 * **Models:** These are the entity models used in the project, representing different aspects of the ECommerce system.
 * **Controllers:** Controllers handle incoming requests, process the data, and return appropriate responses. They act as intermediaries between the models and views.
 * **Service:** In Service, we can implement the business logic.
-  (View: This project mainly concentrated on the backend part)
+(View: This project mainly concentrated on the backend part)
 ---
 ## Documentation
 The API documentation for the ECommerce project is available through Swagger. Once the application is running, you can access the Swagger UI by visiting the following URL:
