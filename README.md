@@ -30,7 +30,7 @@ The project follows the MVC architecture, which separates the application into t
       * AddressService
       * ProductService
       * OrderService
-* **Repository:** The repositories are extending the JPA repository where the CRUD operations work.The repositories are interfaces.
+* **Repository:** The repositories are extending the JPA repository where the CRUD operations work. The repositories are interfaces.
     * <ins>Repositories:</ins>
       * IUserRepo
       * IAddressRepo
