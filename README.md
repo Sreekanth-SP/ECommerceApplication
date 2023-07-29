@@ -63,7 +63,6 @@ The API documentation for the ECommerce project is available through Swagger. On
 
 The Swagger UI provides detailed information about each endpoint, including request/response structures and example payloads. 
 
-
 ---
 ## Conclusion  
 > This ECommerce project follows the MVC architecture and provides endpoints for creating users, products, addresses, and placing orders. It also includes endpoints for retrieving specific orders, users, and products, as well as deleting products by ID. The project is implemented using Java and relies on various dependencies such as Spring Web, Spring Data JPA, MySQL Driver, Lombok, and Swagger.
