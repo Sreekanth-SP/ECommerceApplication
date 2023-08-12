@@ -1,7 +1,6 @@
 # ECommerceApplication
 > This is a sample E-commerce project through Springboot and stores the data in the Mysql database. This repository contains an ECommerce project implemented using the MVC (Model-View-Controller) architecture.
 ---
-
 The project is built with Java and utilizes the following dependencies:
 
 * **Spring Web** - Framework for building web applications.
